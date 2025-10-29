@@ -1,0 +1,6 @@
+claim_id,amount,type,flag
+C001,5000,auto,OK
+C002,15000,medical,Suspicious
+C003,20000,property,OK
+C004,65000,auto,Suspicious
+C005,12000,medical,OK
